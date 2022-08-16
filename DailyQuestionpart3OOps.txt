@@ -1,0 +1,46 @@
+1.What is oops stands for?
+           OOPS-Object Oriented Programming System Or Languages.
+
+2.What is Polymorphism? explain types?
+           A function that can evaluate to or be applied to the values of different types is known
+as polymorphism.
+    Types: 
+        * Method Overloading,
+        * Method Overridding.
+
+3.what is interface and example in selenium,java?
+         An  interface is shared boundaury across which two or more seprate compoments of a computer  system exchange 
+information.
+    Example:
+        * Selenium examples are AndroidDriver,ChromeDriver, FirefoxDriver etc.,
+        * Java example is Blueprint.
+
+4.what is abstarct class and example?
+          An abstract class is a class that is designed to be specifically used as a base class.
+Abstract classes are essential to providing an abstraction to the code to make it reusable and extendable.
+     Example:
+        * A vehicle parent classs with truck and motorbike inheriting from it is an abstraction that that easily 
+more vehicles to be added.
+
+5.Difference between multiple inheritance and multilevel inheritance
+         The multiple inheritance is when class inherits from many base classes while multilevel inheritance is
+when a class inherits from a derived class a base class fo a new class.
+
+6.Is multiple inheritance possible in java?
+         Yes,it is possible. The java programing language supports multiple inheritance of type, which is the 
+ability of a class to implement more than one interface.
+
+7.What is keyword for using inheritance 
+       The keyword used for inheritance is extends.
+ 
+8.what is the keyword to connect interface and class
+       The interface keyword is used to declare a special type of class that only contains astract method.
+To access the interface methods, the interface must be 'implemented' by another class with the implements keyword.
+
+9.what is difference between class and interface
+        A class describes the attributes and behaviours of an object. An interface contains behaviours that a 
+class implements.
+
+10.what is difference between class and abstract class
+         A class describes the attributes and behaviours of an object. Abstract class cannot have abstract constructors.
+It may or may not contains abstract methods.s
